@@ -72,7 +72,7 @@ function Child({ message }) {
 
 ## 5. How is event handling done in React?
 
-**Answer:** Event handling is done by adding functions (event handlers) to JSX elements like `onClick={handleClick}`. React uses camelCase names for events.
+**Answer:** Event handling is done by adding functions (event handlers) to JSX elements like `onClick={handleClick}`. React uses Camelcase names for events.
 
 **Example:**
 
