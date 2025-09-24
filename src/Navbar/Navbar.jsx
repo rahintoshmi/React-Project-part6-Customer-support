@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-        <div className="navbar">
+        <div className="navbar max-w-[1300px] mx-auto bg-base-100 shadow-sm">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -21,7 +21,7 @@ const Navbar = () => {
                         <li><a>Contact</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl -ms-5 md:-ms-0">CS — Ticket System</a>
+                <a className="btn btn-ghost text-xl -ms-5 md:-ms-3">CS — Ticket System</a>
             </div>
             <div className="navbar-end">
                 <div className='hidden md:block'>
