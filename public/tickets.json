@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "title": "Error 500 on profile update",
+    "title": "Error-500 on update",
     "description": "Users are getting a server error when updating profile.",
     "customer": "David Wilson",
     "priority": "High",
