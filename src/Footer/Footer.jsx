@@ -5,7 +5,7 @@ import img3 from '../assets/Group.png';
 import img4 from '../assets/fi_6244710.png';
 const Footer = () => {
     return (
-        <div className='bg-black'>
+        <div className='bg-black mt-[50px]'>
             <div className='flex flex-col md:flex-row bg-black pt-[80px] pb-[30px]  px-[10px] md:px-[80px] gap-11 text-center md:text-justify'>
                 <div>
                     <h3 className='font-bold text-2xl text-[#fff]'>CS — Ticket System</h3>

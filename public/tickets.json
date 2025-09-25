@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "Customer cannot log in with correct credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-01T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment not processed",
+    "description": "Transaction failed but money was deducted from account.",
+    "customer": "Alice Smith",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-02T14:20:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Page loading slowly",
+    "description": "Homepage takes too long to load on mobile devices.",
+    "customer": "Michael Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-03T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Feature request: Dark mode",
+    "description": "Customer requested a dark mode option for the dashboard.",
+    "customer": "Sophia Johnson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-03T18:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Error 500 on profile update",
+    "description": "Users are getting a server error when updating profile.",
+    "customer": "David Wilson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-04T11:10:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Forgot password email not received",
+    "description": "Reset password email never arrives.",
+    "customer": "Emma Davis",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-05T08:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Mobile app crashes",
+    "description": "The app crashes on startup for Android 14 users.",
+    "customer": "Daniel Garcia",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-05T20:30:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Incorrect billing address",
+    "description": "Customer billing address shows wrong state.",
+    "customer": "Olivia Martinez",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-06T12:25:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Bug in search results",
+    "description": "Search shows duplicate results for some queries.",
+    "customer": "Liam Anderson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-07T16:50:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Unable to download invoice",
+    "description": "Clicking download invoice does nothing.",
+    "customer": "Mia Thompson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-08T07:40:00Z"
+  }
+]
